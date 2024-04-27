@@ -1,0 +1,9 @@
+take_input_and_print_x :-
+    write('Enter a value for x:'),
+    read(X),
+    write('Enter a value for y: '),
+    read(Y),
+    S is X+Y,
+    write(S).
+
+:- take_input_and_print_x.

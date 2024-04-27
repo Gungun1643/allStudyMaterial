@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "JavaTokenDetector",
+            "request": "launch",
+            "mainClass": "JavaTokenDetector",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "LL1Parser",
+            "request": "launch",
+            "mainClass": "LL1Parser",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "LR1",
+            "request": "launch",
+            "mainClass": "LR1",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "PASS1",
+            "request": "launch",
+            "mainClass": "PASS1",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "PASS2",
+            "request": "launch",
+            "mainClass": "PASS2",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "TokenParser",
+            "request": "launch",
+            "mainClass": "TokenParser",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "TwoPassAssembler",
+            "request": "launch",
+            "mainClass": "TwoPassAssembler",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "p1",
+            "request": "launch",
+            "mainClass": "hello.p1",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "q1",
+            "request": "launch",
+            "mainClass": "q1",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "q2",
+            "request": "launch",
+            "mainClass": "q2",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "q3",
+            "request": "launch",
+            "mainClass": "q3",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "q4_reg_dfa",
+            "request": "launch",
+            "mainClass": "q4_reg_dfa",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "que1",
+            "request": "launch",
+            "mainClass": "que1",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "que2",
+            "request": "launch",
+            "mainClass": "que2",
+            "projectName": "01_labs_184e62b5"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "01_labs_184e62b5"
+        }
+    ]
+}

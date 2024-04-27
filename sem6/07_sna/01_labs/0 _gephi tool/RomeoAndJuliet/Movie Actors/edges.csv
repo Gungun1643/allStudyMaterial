@@ -1,0 +1,34 @@
+Source,Target,Type,Id,Label,Weight
+Kevin James,Adam Sandler,Undirected,538,,4
+Robert Pattinson,Kristen Stewart,Undirected,1209,,4
+Vin Diesel,Paul Walker,Undirected,5229,,4
+Johnny Depp,Helena Bonham Carter,Undirected,5715,,4
+Seth Rogen,James Franco,Undirected,176,,3
+Jennifer Lawrence,Bradley Cooper,Undirected,522,,3
+Robert De Niro,Bradley Cooper,Undirected,592,,3
+Jennifer Aniston,Jason Sudeikis,Undirected,835,,3
+Vin Diesel,Dwayne Johnson,Undirected,885,,3
+Rupert Grint,Emma Watson,Undirected,930,,3
+Richard Armitage,Martin Freeman,Undirected,986,,3
+Zachary Gordon,Robert Capron,Undirected,1205,,3
+Liam Hemsworth,Josh Hutcherson,Undirected,1708,,3
+Emma Watson,Daniel Radcliffe,Undirected,1922,,3
+Josh Hutcherson,Jennifer Lawrence,Undirected,1927,,3
+Paul Walker,Dwayne Johnson,Undirected,1932,,3
+Scarlett Johansson,Chris Evans,Undirected,2181,,3
+Robert Downey Jr,Gwyneth Paltrow,Undirected,2425,,3
+Richard Armitage,Ian McKellen,Undirected,2571,,3
+Ryan Gosling,Emma Stone,Undirected,2690,,3
+Robert Downey Jr,Chris Evans,Undirected,2738,,3
+Liam Hemsworth,Jennifer Lawrence,Undirected,2847,,3
+Taylor Lautner,Robert Pattinson,Undirected,3148,,3
+Simon Pegg,Nick Frost,Undirected,3251,,3
+Zachary Quinto,Chris Pine,Undirected,3420,,3
+Taylor Lautner,Kristen Stewart,Undirected,3922,,3
+Tom Hardy,Gary Oldman,Undirected,4089,,3
+Scarlett Johansson,Robert Downey Jr,Undirected,4543,,3
+Martin Freeman,Ian McKellen,Undirected,5047,,3
+Rupert Grint,Daniel Radcliffe,Undirected,5199,,3
+Theo James,Shailene Woodley,Undirected,5300,,3
+Woody Harrelson,Jesse Eisenberg,Undirected,5432,,3
+Judi Dench,Daniel Craig,Undirected,5541,,3

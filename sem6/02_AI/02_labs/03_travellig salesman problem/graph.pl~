@@ -1,0 +1,14 @@
+/*add the edges first.*/
+
+edge(a,b,12).
+edge(a,b,12).
+edge(a,b,12).
+edge(a,b,12).
+edge(a,b,12).
+edge(a,b,12).
+edge(a,b,12).
+edge(a,b,12).
+edge(a,b,12).
+edge(a,b,12).
+edge(a,b,12).
+

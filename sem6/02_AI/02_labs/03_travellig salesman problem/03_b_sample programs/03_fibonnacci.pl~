@@ -1,0 +1,14 @@
+% base case : fib(0) is 0
+fib(0,0).
+
+%predicate for computing the fibonacci numbers
+fib(X,Y) :-
+    X > 0,
+    fib(X, Y, _).
+
+%base case for fib(1) = 1
+% this is an additional argument for handling the previous fibonaci
+% number
+fib(1,1,0).
+
+

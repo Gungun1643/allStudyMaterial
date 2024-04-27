@@ -1,0 +1,2 @@
+%facts 
+occupations(marry, teacher).

@@ -1,0 +1,49 @@
+%program: family.pl
+
+parent(albert,jim).
+parent(albert, peter).
+parent(jim, brian).
+parent(john, darren).
+parent(peter, lee).
+parent(peter, sandra).
+parent(peter, james).
+parent(peter, kate).
+parent(peter, kyle).
+parent(brian, jenny).
+parent(irene, jim).
+parent(irene, peter).
+parent(pat, brian).
+parent(pat, darren).
+parent(amanda, jenny).
+
+
+
+
+%female
+female(irene).
+female(pat).
+female(lee).
+female(sandra).
+female(jenny).
+female(amanda).
+female(kate).
+
+
+
+%male
+% male(Person)
+%
+male(albert).
+male(jim).
+male(peter).
+male(brian).
+male(john).
+male(darren).
+male(james).
+male(kyle).
+
+
+
+
+
+

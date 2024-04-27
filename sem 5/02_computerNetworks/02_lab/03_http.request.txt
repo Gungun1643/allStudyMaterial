@@ -1,0 +1,18 @@
+http.request
+=> to be written in the query 
+
+2. go the server
+
+moodle dekhega 
+
+ip address of the server dekhage 
+
+nslookup karke dekhoo 
+
+
+vapis se start karo 
+
+login to the page brwoser
+
+login credentials dalo 
+
